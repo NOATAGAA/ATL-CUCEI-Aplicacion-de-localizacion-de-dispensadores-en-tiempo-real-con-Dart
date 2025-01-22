@@ -5,7 +5,7 @@
 # ATL CUCEI Aplicacion de localizacion de dispensadores en tiempo real con Dart
 Aplicación desarrollada para proyecto modular, para la localización en tiempo real de los diferentes dispensadores localizados en el centro universitario CUCEI, mediante DART/Flutter y Arduino mediante sensores de peso y conexiones con Firebase.
 
-# EXPLICACION-DEL-PROYECTO
+# EXPLICACION DEL PROYECTO
 # ATL (Agua en Náhuatl)
 
 ATL es una aplicación móvil diseñada para proporcionar información en tiempo real sobre la disponibilidad de agua en puntos de distribución en el Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI). Este proyecto integra sensores de peso conectados mediante ESP-32 y Arduino, Firebase como base de datos, y un chatbot inteligente impulsado por Dialogflow. El objetivo principal es optimizar el acceso al agua, mejorar la logística de distribución y fomentar el cuidado del recurso.
